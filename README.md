@@ -5,6 +5,6 @@
 
 
 # lead
-[] [SOFTWARE DELIVERY PROCESS](https://www.goeleven.com/guides/software-delivery-process/) 
+[] [SOFTWARE DELIVERY PROCESS](https://www.goeleven.com/guides/software-delivery-process/)  
 
 # architecture
